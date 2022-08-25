@@ -6,6 +6,10 @@
       <router-link to="/home/search">搜索</router-link>
     </div>
     <router-view></router-view>
+
+    <div>
+      1111111
+    </div>
   </div>
 </template>
 
