@@ -8,7 +8,7 @@
     <router-view></router-view>
 
     <div>
-      1111111
+      抖音热搜歌单
     </div>
   </div>
 </template>
